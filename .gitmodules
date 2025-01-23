@@ -1,3 +1,6 @@
 [submodule "projects/spi-uxp-components"]
 	path = projects/spi-uxp-components
 	url = https://github.com/jeremiahlynn/TESTING-components
+[submodule "projects/spi-uxp-test-app"]
+	path = projects/spi-uxp-test-app
+	url = https://github.com/jeremiahlynn/TESTING-app
